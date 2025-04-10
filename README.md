@@ -1,4 +1,12 @@
-# Test-Survey
-Test Survey Sample
+# QA Internship Test Survey
 
-⚠️ Note: For confidentiality reasons, all references to the actual application name have been replaced with a placeholder `Test_App`.
+This repository contains functional test cases and survey results conducted during my Quality Assurance internship.
+
+## Disclaimer
+
+- All sensitive information and actual application names have been replaced with placeholder names like `Test_App` for confidentiality reasons.
+- All test cases were designed and executed in a controlled environment.
+
+## Structure
+
+- `test_cases/` — Contains test surveys in table format.
